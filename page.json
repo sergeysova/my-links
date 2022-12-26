@@ -5,53 +5,32 @@
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/sergeysova/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/sergeysova",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
+      "url": "https://twitter.com/_sergeysova",
       "icon": "twitter"
-    },
-    {
-      "title": "Buy me a coffee",
-      "url": "http://bit.ly/3FRuBcV",
-      "icon": "mug"
-    },
-    {
+    },    {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "https://instagram.com/_sergeysova",
       "icon": "instagram"
     },
     {
-      "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
-      "icon": "medium"
-    },
-    {
       "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
+      "url": "https://youtube.com/@sova",
       "icon": "youtube"
     },
     {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
+      "title": "Web Site",
+      "url": "https://sova.dev",
       "icon": "link"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
-      "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
-      "icon": "spotify"
     }
   ]
 }
